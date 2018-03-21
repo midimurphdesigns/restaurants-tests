@@ -6,7 +6,7 @@ deploy:
   provider: heroku
   api_key:
     secure: gJfhqSPIvrLHZmKFpVcA5XEXxV152poeypnBOOEE4vhfAvU3KhbwM4M6WftYhN/tW4PVFNx6NsYCGCMfkyuKqzm+P5P08+YmNAQY9UL7Z7kWNtfSraO8nQLC2pOXWTba0+ZNe0rsypOpPMR9DvkveZPyiW0amwpOhY9L6DD2QaTIVAOIpHFG1ItY6DZJkQci600G7jvJLKB8gMCgKITiauy4wwFBDE+xQDQ1Uqs08HSBCyVD0vn8HjpkCsiPuOrozIbCU9lsp4rEv/WSjJoK30nv6nO4G5zwo8GHNXJb/T/y+aURdAfZbQCAvVYU6yZ6atxJtwcf4XRc2LyIP/xksw+6LyWiL9nAsM77qCN+3lEdyYmZZN+Ss00EEa3/9wzkcu5y5tLyo5Y+TaG5Ry+VXo3GXYOA/23JX31jBElL6TY3UVqvvTgO29fQYCpH1r2+QbZOq/e8zdkZZmPcolDvyBiknQTvaFldpy+c3z/Vwfo0zvmqMS6qAxjvDLFOImdC79TH/JypSPVeFvZoDmgLwihd1QLewttGs5BlWB/C4aTxHfkcxJatVGq7IXyNCiAe8RMGePyqWBSO+IkUAJ6I9pxthJkyrps70sSWkMQd7agpKt3oO8rDcg6+mpbqmG2nVtazU91KehRsxHoUgH+HLodcaiILkrM8zBr130/dj5M=
-  app: restaurants-tests
+  app: limitless-bayou-94722
   on:
     repo: midimurphdesigns/restaurants-tests
     branch: feature/with-tests
